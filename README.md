@@ -1,3 +1,27 @@
+# The Project Name
+
+Camera World
+
+# Description
+
+Shopping for a digital camera? We're here to help. Want better photos than your phone can provide? We have high quality of cameras and lenses each year, ranging from pocket-friendly shooters to high-end medium format systems. Here's everything you need to know to pick the best digital camera for you.
+
+# Project Link
+
+https://niche-website-6d4e9.web.app/
+
+# Backend Code Link
+
+https://github.com/programming-hero-web-course-4/niche-website-server-side-nayemshaon34
+
+# Why Choose Camera World?
+
+1. Things Are Cheaper Here
+2. Included Handsome DIscount
+3. Top-Notch Service
+4. Genuine Product
+5. 100 % Customer service and assistance.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
